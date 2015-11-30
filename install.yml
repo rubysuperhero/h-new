@@ -1,0 +1,5 @@
+# hiro new installation config
+# used by h-install
+
+bin:
+  - bin/h-new
